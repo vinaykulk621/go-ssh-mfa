@@ -1,3 +1,5 @@
+package gosshmfa
+
 import (
 	"bytes"
 	"fmt"
