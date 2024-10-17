@@ -31,7 +31,7 @@ type SSHConfig struct {
 package main
 
 import (
-    "fmt"
+	"fmt"
 	"log"
 
 	gosshmfa "github.com/vinaykulk621/go-ssh-mfa"
