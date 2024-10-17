@@ -4,7 +4,7 @@
 
 ## install
 
-```go
+```bash
 go get -u github.com/vinaykulk621/go-ssh-mfa
 ```
 
